@@ -8,5 +8,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 # Screenshots
 
-![Homepage](https://imgur.com/a/4ESk0?style=centerme)
-![Registration](https://imgur.com/a/mIwLI?style=centerme)
+![](https://imgur.com/lJ2bFCp)
+![](https://imgur.com/Cv1EOBr)
